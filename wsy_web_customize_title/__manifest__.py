@@ -11,7 +11,7 @@
     'website': 'https://weasydoo.com',
     "application": False,
     "installable": True,
-    'depends': ['wsy_web'],
+    #'depends': ['wsy_web'],
     'data': [
         'views/res_config.xml',
     ],
